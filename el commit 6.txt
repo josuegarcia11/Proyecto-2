@@ -1,0 +1,1 @@
+yo en este trabajo aprendi muchas cosas como las cuales a instalar los paquetes de npx en una carpeta, a hacer botoness ya sea para sumar entres otras cosas, a hacer un contador, y por ultimo hacer un formulario
